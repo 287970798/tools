@@ -1,0 +1,14 @@
+{
+    "name": "287970798/tools",
+    "description": "my tools",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "287970798",
+            "email": "287970798@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
